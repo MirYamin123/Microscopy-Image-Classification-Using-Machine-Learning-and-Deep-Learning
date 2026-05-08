@@ -124,7 +124,3 @@ comi_comparison_project/notebooks/comi_presentation_materials.ipynb
 - PCA reduced the Random Forest input from 4,096 pixel values to 38 components while preserving about 95% variance.
 - Transfer learning helped ResNet18 generalize much better than the CNN trained from scratch.
 - Nucleus was the easiest class for the strongest models; mitochondria caused the most confusion.
-
-## Authors
-
-Faisal Ughratdar and Yamin Mir
