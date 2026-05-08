@@ -1,0 +1,4 @@
+model,feature_style,spatial_learning,expected_strength
+random_forest_pca,flattened pixels + PCA,no,classical baseline
+baseline_cnn,learned convolutional features,yes,moderate deep-learning baseline
+resnet18,pretrained deep hierarchical features,yes,strongest expected model

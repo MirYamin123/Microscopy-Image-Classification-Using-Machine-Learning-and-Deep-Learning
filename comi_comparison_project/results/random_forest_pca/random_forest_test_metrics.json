@@ -1,0 +1,56 @@
+{
+  "accuracy": 0.9595959595959596,
+  "precision_macro": 0.9593634270843759,
+  "recall_macro": 0.9594845360824742,
+  "f1_macro": 0.9592792398908312,
+  "confusion_matrix": [
+    [
+      93,
+      5,
+      2
+    ],
+    [
+      4,
+      92,
+      1
+    ],
+    [
+      0,
+      0,
+      100
+    ]
+  ],
+  "classification_report": {
+    "actin": {
+      "precision": 0.9587628865979382,
+      "recall": 0.93,
+      "f1-score": 0.9441624365482234,
+      "support": 100.0
+    },
+    "mitochondria": {
+      "precision": 0.9484536082474226,
+      "recall": 0.9484536082474226,
+      "f1-score": 0.9484536082474226,
+      "support": 97.0
+    },
+    "nucleus": {
+      "precision": 0.970873786407767,
+      "recall": 1.0,
+      "f1-score": 0.9852216748768473,
+      "support": 100.0
+    },
+    "accuracy": 0.9595959595959596,
+    "macro avg": {
+      "precision": 0.9593634270843759,
+      "recall": 0.9594845360824742,
+      "f1-score": 0.9592792398908312,
+      "support": 297.0
+    },
+    "weighted avg": {
+      "precision": 0.9594736272746482,
+      "recall": 0.9595959595959596,
+      "f1-score": 0.959388589705411,
+      "support": 297.0
+    }
+  }
+}
